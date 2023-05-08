@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ServerData",
+    "\\ServerData\\Android"
   ],
+  "SelectedNode": "\\ServerData\\Android",
   "PreviewInSolutionExplorer": false
 }
